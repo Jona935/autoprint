@@ -1,0 +1,10 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+gh_cli/
+gh_installer.msi
+innosetup_installer.exe
+installer/
+*.spec.bak
