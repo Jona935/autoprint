@@ -1,5 +1,5 @@
 #define AppName      "AutoPrint"
-#define AppVersion   "1.0"
+#define AppVersion   "1.1"
 #define AppPublisher "AutoPrint"
 #define AppExeName   "AutoPrint.exe"
 #define AppDesc      "Impresion automatica de PDFs desde Google Drive"
